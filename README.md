@@ -1,4 +1,4 @@
-# Hello-world-calc(Exp-1)
+# Hello-world-and-basis-calculator
 
 # Aim: To print Hello World and design a Claculator to add,subtract,multiply and divide two user input number.
 
